@@ -1,8 +1,8 @@
 # Projektwoche WS 2022_23
 
-# Exercise Sheet B – "Console Games"
+## Exercise Sheet B – "Console Games"
 
-## Exercise 1 – Solitaire
+### Exercise 1 – Solitaire
 
 Create a Java console application for the game "Solitaire" according to the following 10 points.
 
@@ -19,7 +19,7 @@ Game board: 5x5 square solitaire
 9. Implement a method `startGame` that creates a game board according to the example given above.
 10. Create a method `move`, and implement your game logic in this method. This method should also handle the input of coordinates (the pin that should be moved into the empty field is chosen).
 
-## Exercise 2 – Connect Four
+### Exercise 2 – Connect Four
 
 Create a Java console application for the game "Connect Four", which can be played as a two-player version.
 
@@ -37,7 +37,7 @@ If all 42 game pieces have been played without a player winning, the game ends i
 
 Game board with a possible game progression:
 
-## Exercise 3 – Battleship
+### Exercise 3 – Battleship
 
 In the game "Battleship", two players place ships on their own game board in secret. The following ships should be placed:
 
